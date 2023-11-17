@@ -11,7 +11,7 @@
 <li>P: benefit of wining the prey (resource)
 <li>H: the cost of being damage
 <li>T: losed time in an argument without fight.
-
+<ul>
 
 <p>In this case, we are going to consider these rules are:
 
@@ -19,13 +19,13 @@
 <li>P > H
 <li>P > T
 <li>H > T
-
+<ul>
 
 <ul>
 <li>Falcon vs. falcon: there will we a fight. The winner obtain the prey without damage (P), but the loser will suffer harm (-H). Therefore, the average benefit per Falcon is (P-H)/2
 <li>Falcon vs. pidgeon: the falcon obtains the prey (P), and the pidgeon doesn't have or benefit or loses (0)
 <li>Pidgeon vs. pidgeon: they try to dialogue. The winner obtains the prey but aldo he has lost time (P-T). The looser has lost time (-T). The average benefit per pidgeon is (P-2T)/2
-
+<ul>
 
 
 
@@ -36,7 +36,7 @@
 <ul>
 <li>Individuals don't lose time (T = 0)
 <li>H > P
-
+<ul>
 
 <ul>
 <li>Falcon vs. bourgeois:
