@@ -21,6 +21,7 @@
 <li>H > T</li>
 </ul>
 
+
 <ul>
 <li>Falcon vs. falcon: there will we a fight. The winner obtain the prey without damage (P), but the loser will suffer harm (-H). Therefore, the average benefit per Falcon is (P-H)/2</li>
 <li>Falcon vs. pidgeon: the falcon obtains the prey (P), and the pidgeon doesn't have or benefit or loses (0)</li>
@@ -38,13 +39,18 @@
 <li>H > P</li>
 </ul>
 
+
 <ul>
 <li>Falcon vs. bourgeois:</li>
-<li><li>If the bourgeois is the owner, he acts as a falcon. Both have a fight. The winer obtained the prey (P) and the loser will suffer damage. The average benefit will be (P-H)/2.</li></li>
-<li><li>If the bourdeois is the thief, he act a s a pidgeon, so the falcon wins. The benefit of the falcon will be the prey (P) and the cost of the bourgeois will be 0.</li></li>
+<ul>
+<li>If the bourgeois is the owner, he acts as a falcon. Both have a fight. The winer obtained the prey (P) and the loser will suffer damage. The average benefit will be (P-H)/2.</li>
+<li>If the bourdeois is the thief, he act a s a pidgeon, so the falcon wins. The benefit of the falcon will be the prey (P) and the cost of the bourgeois will be 0.</li>
+</ul>
 <li>Pidgeon vs. bourgeois:</li>
-<li><li>If the bourgeois is the owner, he acts as a falcon. Therefore, he wins the prey (P) and the pidgeon have a cost of 0.</li></li>
-<li><li>If the bourdeois is the thief, he act as a pidgeon, so the winner obtain the prey (P-T) and the loser have a cost of 0 (T). The average of the benefit wil be P/2</li></li>
+<ul>
+<li>If the bourgeois is the owner, he acts as a falcon. Therefore, he wins the prey (P) and the pidgeon have a cost of 0.</li>
+<li>If the bourdeois is the thief, he act as a pidgeon, so the winner obtain the prey (P-T) and the loser have a cost of 0 (T). The average of the benefit wil be P/2</li>
+</ul>
 <li>Falcon vs. falcon: there will we a fight. The winner obtain the prey without damage (P), but the loser will suffer harm (-H). Therefore, the average benefit per Falcon is (P-H)/2</li>
 <li>Falcon vs. pidgeon: the Falcon obtains the prey (P), and the pidgeon doesn't have or benefit or loses (0)</li>
 <li>Pidgeon vs. pidgeon: they try to dialogue. The winner obtains the prey but also he has lost time (P-T). The looser has lont time (-T). The average benefit per pidgeon is P/2</li>
